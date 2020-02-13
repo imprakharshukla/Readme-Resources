@@ -4,6 +4,7 @@
 [![Forum](https://img.shields.io/badge/Documentation-Read%20the%20docs-blue?style=flat)](https://docs.andronix.app)
 [![Play Store](https://img.shields.io/badge/Download-Google%20Play-orange?style=flat&logo=google-play)](https://play.google.com/]store/apps/details?id=studio.com.techriz.andronix)
 [![GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=flat&logo=github)]()
+[![GitHub Releases](https://img.shields.io/codacy/grade/1ae093576d614e51b3befa0ffd9d1071?style=flat)]()
 
 
 [![Forum](https://img.shields.io/badge/Questions%3F-Join%20our%20forum-blue?style=flat-square)](https://forum.andronix.app)
@@ -12,6 +13,7 @@
 [![Forum](https://img.shields.io/badge/Documentation-Read%20the%20docs-blue?style=flat-square)](https://docs.andronix.app)
 [![Play Store](https://img.shields.io/badge/Download-Google%20Play-orange?style=flat-square&logo=google-play)](https://play.google.com/]store/apps/details?id=studio.com.techriz.andronix)
 [![GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=flat-square&logo=github)]()
+[![GitHub Releases](https://img.shields.io/codacy/grade/1ae093576d614e51b3befa0ffd9d1071?style=flat-square)]()
 
 
 [![Forum](https://img.shields.io/badge/Questions%3F-Join%20our%20forum-blue?style=for-the-badge)](https://forum.andronix.app)
@@ -20,3 +22,5 @@
 [![Forum](https://img.shields.io/badge/Documentation-Read%20the%20docs-blue?style=for-the-badge)](https://docs.andronix.app)
 [![Play Store](https://img.shields.io/badge/Download-Google%20Play-orange?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=studio.com.techriz.andronix)
 [![GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=for-the-badge&logo=github)]()
+[![GitHub Releases](https://img.shields.io/codacy/grade/1ae093576d614e51b3befa0ffd9d1071?style=for-the-badge)]()
+
