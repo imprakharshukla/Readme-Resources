@@ -12,8 +12,8 @@
 ![GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=flat-square&logo=github)
 
 
-![Forum](https://img.shields.io/badge/Questions%3F-Join%20our%20forum-blue??style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue??style=for-the-badge&logo=telegram)
-![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-blue??style=for-the-badge&logo=discord)
-![Play Store](https://img.shields.io/badge/Download-Google%20Play-orange??style=for-the-badge&logo=google-play)
-![GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-orange??style=for-the-badge&logo=github)
+![Forum](https://img.shields.io/badge/Questions%3F-Join%20our%20forum-blue?style=for-the-badge)
+![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=for-the-badge&logo=telegram)
+![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=for-the-badge&logo=discord)
+![Play Store](https://img.shields.io/badge/Download-Google%20Play-orange?style=for-the-badge&logo=google-play)
+![GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=for-the-badge&logo=github)
