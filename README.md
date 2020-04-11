@@ -10,5 +10,5 @@
   <a href="https://npmcharts.com/compare/vue?minimal=true"><img src="https://img.shields.io/badge/Documentation-Read%20the%20docs-blue?style=flat-square"></a>
   <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/badge/Download-Google%20Play-orange?style=flat-square&logo=google-play" alt="Version"></a>
   <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=flat-square&logo=github" alt="License"></a>
-  <a href="https://app.saucelabs.com/builds/50f8372d79f743a3b25fb6ca4851ca4c"><img src="https://img.shields.io/codacy/grade/1ae093576d614e51b3befa0ffd9d1071?style=flat-square" alt="Build Status"></a>
+  <a href="https://app.saucelabs.com/builds/50f8372d79f743a3b25fb6ca4851ca4c"><img src="https://img.shields.io/codacy/grade/1ae093576d614e51b3befa0ffd9d1071?style=flat" alt="Build Status"></a>
 </p>
