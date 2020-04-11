@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-mod_dxfce">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="mod_dxfce" clip-path="url(#clip-mod_dxfce)">
+    <text id="D" transform="translate(-2 52)" fill="#dd4814" font-size="50" font-family="ProductSans-Bold, Product Sans" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+    <text id="X" transform="translate(26 52)" fill="#dd4814" font-size="50" font-family="ProductSans-Bold, Product Sans" font-weight="700"><tspan x="0" y="0">X</tspan></text>
+  </g>
+</svg>
