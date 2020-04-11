@@ -44,22 +44,16 @@ Hey! 😊, let's introduce to the basics of the documentations around here. This
 
 Here you can find all the information necessary to understand Andronix better. Diving deep in **PRoot**, **app structure** and **Shell scripts** that actually make you understand about what's actually happening.
 
-<br>
-
 ### Installation Docs 📱
 All and everything for you to get up and running with your favourite Linux Distribution. If you're seeking for help installing a distribution, this is place you need to be.
-
-<br>
 
 ### Apps Installation 💻
 Here are the installation procedures of few most popular apps like **VS Code, IntelliJ Idea, GIMP, Blender** etc. Easy to follow and quick!
 
-<br>
-
 ### Development Docs 👨‍💻
 Looking into contributing and developing things around or for Andronix? Here you can find all the required documentation regarding **termux-packages, app, scripts** or anything to development.
 
-## What can you do with Andronix?
+# What can you do with Andronix?
 Pretty much anything you like to do. You're just limited by the lack of the full Linux kernel, the SELinux policies of your Android versions, your CPU architecture and your device's hardware. We have users replacing their entire laptops and computer with Andronix. We are looking for something that can support web-browsing, coding or anything else that is not really taxing on your phone's hardware then you can use Andronix without any issues.
 
 You don't have to worry about multi-booting your system which means you can have all the Un-Modded and Modded OS installed at once. **12 OS at once given that you have the storage for it.** Install as many as you like, uninstall them when you're done.
@@ -72,22 +66,47 @@ On the other hand [Modded OS](https://app.gitbook.com/@andronix-app/s/andronix-a
 
 You can also get **Andronix Premium** which is another way to support the developers. You also get a few perks including online sync with Andronix Commands and a web-app to access it from any device you want.
 
-## What Andronix can't do?
-Many users out there are looking for a viable resource to use Linux system on their Android devices without rooting their devices. AndroNix is a viable option for these purposes but with some limitations. We make our best efforts to provide a full Linux PC 💻experience to our users but some things are just out of our hand due to certain restrictions imposed by the Android layer, its SELinux 🔐 policies and the process we use to run the Linux on the Android devices.
+
+# What OS are supported?
+Andronix currently supports 8 Un-Modded OS and 4 Modded OS at the moment.
+### Un-Modded OS
+1. Ubuntu
+2. Debian
+3. Manjaro
+4. Fedora
+5. Kali
+6. Void
+7. Alpine
+8. Arch
+
+### Desktop Environment
+1. LXDE
+2. LXQT
+3. XFCE
+
+### Modded OS
+1. Ubuntu XFCE
+2. Debian XFCE
+3. Manjaro XFCE
 
 
--   AndroNix is not capable of running **STEAM 🎮** or any PC games on any of its Linux systems. The main reason for this is because Steam is only made for Intel/AMD based CPU's and not mobile based CPU's i.e. aarch64, armv8, arm64, arm, armv7, arm32 etc.
-    
--   AndroNix is not capable of running any software except software complied for **arm64/armv8/aarch64** architecture if you are using any **Android device** based of **Android 7** or above and has **arm64/armv8/aarch64** chipset. You can check your device architecture by using [**CPUZ**](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z). If you are using any device which has Android layer such as **Chromebook** then AndroNix will only be able to run software made for your architecture which may be **i386/i686/x86 or x86_64.**
-    
--   AndroNix does not claim that it will run all the software even if the software complies to all the conditions mentioned in the above point. If the software is made in such a way that it requires the presence of Linux Kernel or any hardware support which is not present in the ⚠ **PRoot environment** then the software might fail to run**.** AndroNix uses PRoot environment which has certain inevitable limitations leading to unusable software.
-  
--   AndroNix is not made for compiling large chunks of code 👩💻such as building an Android app, any software or compiling kernels. Code compilations sometimes require specific hardware which is not present in PRoot environment which may lead to errors while compiling code. Any such reports on any support channel will not be entertained.
-    
--   Linux environments made available by AndroNix cannot be used for **hacking/cracking purposes** i.e. Wi-Fi hacking, packet capture etc. All these things require real hardware which supports all the features like packet capturing which is not available natively in Android phones.
-    
--   Linux environments cannot mount/read any hardware such as drives or adapters 🖨. This is because fuse mount cannot be used under PRoot.
-    
--   Any Linux OS cannot be installed on External Storage as Android does not give permission to write on External storage such as SD card or USB devices.
-    
--   **SNAP/Docker** packages cannot be installed on any Linux environment. It is mainly due to two reasons. Primary being that both require kennel and bus modules which are unavailable in PRoot environment and second being that both are mainly focused on Intel/AMD based architectures and not for arm architecture.
+
+# Are we open-source? 📖🔓
+
+
+Yes but no. Andronix is partially open-source. All the free distro tar files and the shell scripts are available on our [GitHub repository](https://github.com/andronixapp). While all the paid things, like the actual Android app and all the files concerning Andronix Modded OS are close-source for obvious reasons.
+
+That doesn't mean that we don't love open-source, **we** 💘 **open-source**. In fact if you're a developer or a maintainer of an open-source project, **we will be more than happy to provide you everything for free** for life. Just get-in touch with us and complete the process of verification😊.
+
+<br>
+
+# Here are a few screenshots 🤘
+
+<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example1.png?token=AJQWPWJZBKFSVK7H4IRKLF26TLPRI" width="400" >
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example2.png?token=AJQWPWO7WX6MNMZIKW5ZLLC6TLPRM" width="400" >
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example3.png?token=AJQWPWICFWT6VEQW7KUPM7C6TLPRQ" width="400" >
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example4.png?token=AJQWPWNQHNRAC7J7VIP53LC6TLPRW" width="400" >
+</p>
