@@ -5,13 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/badge/Questions%3F-Join%20our%20forum-blue?style=flat-square" alt="Build Status"></a>
-  <a href="https://codecov.io/github/vuejs/vue?branch=dev"><img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=flat-square&logo=discord" alt="Coverage Status"></a>
-  <a href="https://npmcharts.com/compare/vue?minimal=true"><img src="https://img.shields.io/badge/Documentation-Read%20the%20docs-blue?style=flat-square"></a>
-  <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/badge/Download-Google%20Play-orange?style=flat-square&logo=google-play" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=flat-square&logo=github" alt="License"></a>
-  <a href="https://app.saucelabs.com/builds/50f8372d79f743a3b25fb6ca4851ca4c"><img src="https://img.shields.io/codacy/grade/1ae093576d614e51b3befa0ffd9d1071?style=flat-square" alt="Build Status"></a>
-</p>
+  <a href="https://forum.andronix.app"><img src="https://img.shields.io/badge/Questions%3F-Join%20our%20forum-blue?style=flat-square"></a>
+  <a href="https://discord.gg/jywhBH4"><img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=flat-square&logo=discord"></a>
+  <a href="https://docs.andronix.app"><img src="https://img.shields.io/badge/Documentation-Read%20the%20docs-blue?style=flat-square"></a>
+  <a href="https://play.google.com/store/apps/details?id=studio.com.techriz.andronix"><img src="https://img.shields.io/badge/Download-Google%20Play-orange?style=flat-square&logo=google-play"></a>
+  <a href="https://github.com/AndronixApp/AndronixOrigin/releases"><img src="https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=flat-square&logo=github"></a>
 
 <br>
 <h1 align="center">Install Linux on your Android 🔥</h1>
@@ -38,31 +36,33 @@ or in easier words, the benefits of enabling PRoot include running Linux operati
 We use **Termux** to provide the command line and the packages that are especially compiled for Termux implemented inside Andronix.
 
 # Get started now 🚀
-Hey! 😊, let's introduce to the basics of the documentations around here. This is the doc-hub for Andronix, from development to installations, you can find almost everything here.
+Hey! 😊, let's introduce to the basics of the documentations around here. This is the doc-hub for Andronix, from development to installations, you can find almost everything here. [Read the documentation here](https://docsv2.andronix.app)
 
 ### Introduction Docs 📒
 
 Here you can find all the information necessary to understand Andronix better. Diving deep in **PRoot**, **app structure** and **Shell scripts** that actually make you understand about what's actually happening.
 
 ### Installation Docs 📱
-All and everything for you to get up and running with your favourite Linux Distribution. If you're seeking for help installing a distribution, this is place you need to be.
+All and everything for you to get up and running with your favourite Linux Distribution. If you're seeking for help installing a distribution, this is place you need to be. [Read the installation docs](https://docsv2.andronix.app/installations/non-modded-os)
 
 ### Apps Installation 💻
-Here are the installation procedures of few most popular apps like **VS Code, IntelliJ Idea, GIMP, Blender** etc. Easy to follow and quick!
+Here are the installation procedures of few most popular apps like **VS Code, IntelliJ Idea, GIMP, Blender** etc. Easy to follow and quick! [Read the app installation docs](https://docsv2.andronix.app/software/browsers)
 
 ### Development Docs 👨‍💻
-Looking into contributing and developing things around or for Andronix? Here you can find all the required documentation regarding **termux-packages, app, scripts** or anything to development.
+Looking into contributing and developing things around or for Andronix? Here you can find all the required documentation regarding **termux-packages, app, scripts** or anything to development. *We are working on it 👷‍♂️*
 
 # What can you do with Andronix?
 Pretty much anything you like to do. You're just limited by the lack of the full Linux kernel, the SELinux policies of your Android versions, your CPU architecture and your device's hardware. We have users replacing their entire laptops and computer with Andronix. We are looking for something that can support web-browsing, coding or anything else that is not really taxing on your phone's hardware then you can use Andronix without any issues.
 
 You don't have to worry about multi-booting your system which means you can have all the Un-Modded and Modded OS installed at once. **12 OS at once given that you have the storage for it.** Install as many as you like, uninstall them when you're done.
 
+[Here's what you can't do on Andronix systems](https://docsv2.andronix.app/)
+
 ## Is it free?
 
 Yes! ⚡ Andronix is completely **Ad-free** and all the Un-modded distros and **free to use as much as you want**. 
 
-On the other hand [Modded OS](https://app.gitbook.com/@andronix-app/s/andronix-app/~/drafts/-M4c-rXqPL1Wt-aXeJcK/installations/modded-os) are paid but they are very economical considering it is a **lifetime purchase with unlimited installs on unlimited devices.**  (We spend hours optimizing and packing it, and these are very large files which we need to serve requiring a massive amount of bandwidth, which costs money).
+On the other hand [Modded OS](https://docsv2.andronix.app/installations/modded-os) are paid but they are very economical considering it is a **lifetime purchase with unlimited installs on unlimited devices.**  (We spend hours optimizing and packing it, and these are very large files which we need to serve requiring a massive amount of bandwidth, which costs money).
 
 You can also get **Andronix Premium** which is another way to support the developers. You also get a few perks including online sync with Andronix Commands and a web-app to access it from any device you want.
 
