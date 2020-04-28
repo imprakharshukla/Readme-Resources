@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/images/app_logo_verticle.png?token=AJQWPWLM6UD7MLVJY4LVDZS6TKQJK"/>
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/images/app_logo_verticle.png/>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/images/app_dashboard_dark.png?token=AJQWPWO3CPM5OR7ONJ56EBK6TKGP2" width="250">
-  <img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/images/app_dashboard_light.png?token=AJQWPWIS2QUTZVWDPWAAIAS6TKG5K" width="250">
+  <img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/images/app_dashboard_dark.png width="250">
+  <img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/images/app_dashboard_light.png width="250">
  </p>
 
 # How does this work?
@@ -105,8 +105,8 @@ That doesn't mean that we don't love open-source, **we** 💘 **open-source**. I
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example1.png?token=AJQWPWJZBKFSVK7H4IRKLF26TLPRI" width="400" >
-<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example2.png?token=AJQWPWO7WX6MNMZIKW5ZLLC6TLPRM" width="400" >
-<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example3.png?token=AJQWPWICFWT6VEQW7KUPM7C6TLPRQ" width="400" >
-<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example4.png?token=AJQWPWNQHNRAC7J7VIP53LC6TLPRW" width="400" >
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example1.png width="400" >
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example2.png width="400" >
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example3.png width="400" >
+<img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example4.png width="400" >
 </p>
