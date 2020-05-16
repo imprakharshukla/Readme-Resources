@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://forum.andronix.app"><img src="https://img.shields.io/badge/Questions%3F-Join%20our%20forum-blue?style=flat-square"></a>
-  <a href="https://discord.gg/jywhBH4"><img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=flat-square&logo=discord"></a>
+  <a href="https://chat.andronix.app"><img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=flat-square&logo=discord"></a>
   <a href="https://docs.andronix.app"><img src="https://img.shields.io/badge/Documentation-Read%20the%20docs-blue?style=flat-square"></a>
   <a href="https://play.google.com/store/apps/details?id=studio.com.techriz.andronix"><img src="https://img.shields.io/badge/Download-Google%20Play-orange?style=flat-square&logo=google-play"></a>
   <a href="https://github.com/AndronixApp/AndronixOrigin/releases"><img src="https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=flat-square&logo=github"></a>
